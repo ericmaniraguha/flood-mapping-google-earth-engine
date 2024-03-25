@@ -50,8 +50,6 @@ The project involves various stages including data storage, ETL (Extract, Transf
 
 ![Architecture](./Architecture-diagram.png)
 
-![Architecture-relational-table](./relational_table.png)
-
 ## Resources
 
 - **Dataset**: The dataset used in this project is available [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
